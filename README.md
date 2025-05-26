@@ -1,2 +1,2 @@
 # Portfolio
-[My Portfolio](https://advay-porfolio.netlify.app)
+[My Portfolio](https://advay-portfolio.netlify.app)
