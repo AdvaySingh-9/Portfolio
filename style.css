@@ -682,3 +682,30 @@ a:active{
   font-size: 2rem;
 
 }
+
+@keyframes ColorChange2 {
+  0%{
+    color: aqua;
+  }
+  50%{
+    color: rgb(0, 0, 255)
+  }
+  100%{
+    color: aqua;
+  }
+  
+}
+
+.link-2{
+  animation: ColorChange2 4s infinite
+}
+
+footer{
+  justify-content: center;
+  background-color: rgb(46, 46, 46);
+  color: white;
+  text-align: center;
+  bottom: 0;
+  
+  width: 100%;
+}
